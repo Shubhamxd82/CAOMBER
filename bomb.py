@@ -117,9 +117,9 @@ from datetime import datetime, timedelta
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, CallbackQueryHandler
 
-BOT_TOKEN = "8127271793:AAFXItJS_ZtgFB390tJe7GxJ7RQWI5n7ED8" 
-OWNER_ID = 7108672650
-ADMIN_ID = 8269464575
+BOT_TOKEN = "8670961788:AAEFWwy-kPDdscQnYfNHcbFDGH5QpEUZjok" 
+OWNER_ID = 8794642689
+ADMIN_ID = 8794642689
 WELCOME_IMAGE = "https://i.postimg.cc/nVmCtQ4x/IMG-20260324-080414-712.jpg"
 
 PLANS = {
